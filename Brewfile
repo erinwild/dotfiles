@@ -25,7 +25,7 @@ brew "zsh-completions"
 
 cask_args appdir: "/Applications"
 cask "1password"
-cask "appcleaner
+cask "appcleaner"
 cask "google-chrome"
 cask "iterm2"
 cask "mactex-no-gui"
