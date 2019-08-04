@@ -30,6 +30,8 @@ ln -s $HOME/Documents/dotfiles/.mackup.cfg $HOME/.mackup.cfg
 # Create symlink from here to the oh-my-zsh themes path
 ln -f erinwild.zsh-theme ~/.oh-my-zsh/themes/erinwild.zsh-theme
 
+# Create directory for keeping virtual environments
+mkdir $HOME/Documents/.virtualenv
+
 # Set macOS preferences
-# We will run this last because this will reload the shell
 source .macos
