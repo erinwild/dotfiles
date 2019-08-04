@@ -28,7 +28,7 @@ ln -s $HOME/Documents/dotfiles/.zshrc $HOME/.zshrc
 ln -s $HOME/Documents/dotfiles/.mackup.cfg $HOME/.mackup.cfg
 
 # Create symlink from here to the oh-my-zsh themes path
-ln -f agnoster-wild.zsh-theme ~/.oh-my-zsh/themes/agnoster-wild.zsh-theme
+ln -f erinwild.zsh-theme ~/.oh-my-zsh/themes/erinwild.zsh-theme
 
 # Set macOS preferences
 # We will run this last because this will reload the shell
