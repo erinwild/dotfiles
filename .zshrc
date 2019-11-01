@@ -30,3 +30,5 @@ export WORKON_HOME=$VIRTUALENV
 
 # Dotfiles
 source $DOTFILES/aliases.zsh
+
+[ -f /opt/dev/dev.sh ] && source /opt/dev/dev.sh
